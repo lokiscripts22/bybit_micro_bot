@@ -1,0 +1,1 @@
+{'direction': 'hold', 'entry_price': 87950.0, 'won': True}

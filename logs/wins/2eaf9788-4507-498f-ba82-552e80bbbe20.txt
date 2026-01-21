@@ -1,0 +1,1 @@
+{'id': '2eaf9788-4507-498f-ba82-552e80bbbe20', 'direction': 'buy', 'entry_price': 87885.7, 'amount': 0.001138, 'tp': 0.3, 'sl': 0.2, 'timestamp': 1767267932}
