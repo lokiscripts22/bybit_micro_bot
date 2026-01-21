@@ -1,7 +1,7 @@
 import ccxt
 
-API_KEY = "gVoGfxgyIKLCKhVLA0"
-API_SECRET = "ajmFZexUoBdLEbxlUE7GUKuKjmCtevcKJsf8"
+API_KEY = "key"
+API_SECRET = "key"
 
 exchange = ccxt.bybit({
     "apiKey": API_KEY,
